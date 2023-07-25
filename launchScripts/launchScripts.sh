@@ -23,7 +23,7 @@ xrandr --auto
 picom
 
 #Enabling SSH
-ssh-agent
+#ssh-agent
 
 #Updating the Database for Locate Command
 sudo updatedb
