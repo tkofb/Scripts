@@ -9,6 +9,6 @@ read password
 git commit -m "$commitMessage"
 
 #work on this later
-echo password |  git push
+echo password | git push
 
 
